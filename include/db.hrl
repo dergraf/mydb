@@ -1,0 +1,2 @@
+-define(NR_OF_BUCKETS, 10).
+-define(NR_OF_SLOTS, 512).

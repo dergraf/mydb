@@ -66,4 +66,4 @@ dergraf:mydb $ du -h data/ buckets/
 
 Basho Benchmark
 ---------------
-Check <code>summary.png</code> to see the results of a bashobench run on my Macbook Pro 2GHz Intel Code i7, SATA HD with 7200 RPM
+Check <code>summary.png</code> to see the results of a bashobench run on my Macbook Pro 2GHz Intel Code i7, SATA HD with 7200 RPM, 10 Buckets, 512 Slots / Bucket. 
